@@ -1,0 +1,6 @@
+<!--pages/rpLogin/rpLogin.wxml-->
+<view class='wrap'>
+<view class='header'>
+<button class='lgo' bindtap='lgo'>登录</button>
+</view>
+</view>
